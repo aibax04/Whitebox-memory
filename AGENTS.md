@@ -39,6 +39,7 @@ Capture what matters. Decisions, context, things to remember. Skip the secrets u
 - When someone says "remember this" → update `memory/YYYY-MM-DD.md` or relevant file
 - When you learn a lesson → update AGENTS.md, TOOLS.md, or the relevant skill
 - When you make a mistake → document it so future-you doesn't repeat it
+- **Self-Healing Loop:** If you hit a technical wall or missing dependency, don't just fail. Trigger the Ingestion Mission (webscrape documentation, GitHub, etc.), update your knowledge file, and RETRY the task until closure.
 - **Text > Brain** 📝
 
 ## Safety
